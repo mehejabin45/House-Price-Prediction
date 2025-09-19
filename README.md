@@ -1,2 +1,1 @@
-# House-Price-Prediction
-Predicting house prices using Linear Regression (India dataset + Bengaluru dataset).
+### used Bangaluru House Price Dataset("https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data"), House price india dataset
